@@ -13,6 +13,8 @@
  */
  
  /* Some Changes made by Haris   */
+ 
+ /* Add another line for checking if theme is updating successfully*/
 
 //let's start the game!
 require_once('core/load.php');
