@@ -12,7 +12,7 @@
  * http://www.gnu.org/licenses/gpl-3.0.txt
  */
  
- /* Some Changes made by Haris */
+ /* Some Changes made by Haris   */
 
 //let's start the game!
 require_once('core/load.php');
